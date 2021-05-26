@@ -1,0 +1,23 @@
+Mechanique jeu tour par tour
+Map fixe Slot de batiment prédéfinis 
+batiment:
+Hotel de ville -> 3 niveau donc divise le jeu en trois Tiers Focus sur le Tiers 1, Tiers 2 et 3 en bonus si on a le temps 
+Tiers 1: la ville doit produire assez de nouriture pour toute la population la nouriture peut etre stocké celon la capacité des cabanes du pécheur et du bucheron il n'y a pas de mecanique comme quoi la nourriture pourris 
+Cabane de pécheur -> produit du poisson pour nourir toute la population 
+Cabane du bucheron -> produit du bois/ressource première utilisé pour construire les batiment ou les amilioré 
+Maison -> loge toute la population de phoque (tiers 2: si la population est trop grande par rapport au niveau des maisons le bonheur diminue)
+tous sont améliorable jusqu'au niveau 3 ce qui augmente leur capacité de production mais augmente la population générale pour l'amilioration des cabane de pécheur et des cabanes de bucheron augmente la production de manière générale mais aussi la capacité de ces dernières 
+
+Tiers 2: apparition d'une nouvelle contrainte le  bonheur  de la population au début de la partie commence a 10 10=très content production*2 0=neutre production normal -10=grève production/2:
+plus la population est grande plus a chaque tour le bonheur diminue 
+mais la construction de nouveux batiment permeterons de augmenter le bonheur de manière fixe ou diminue la perte de bonheur
+Théatre augmente le bonheur de maniére fixe
+GY réduis la diminution de bonheur a chaque tour 
+les batiments de Tiers 1 peuvent être amilioré jusqu'au niveau 6 et les batiment tiers 2 peuvent etre amilioré jusqu'au niveau 3 ce qui augmente leur éfficacité 
+
+Tiers 3 apparition de 2 nouveau batiment beaucoup plus complexe 	
+Marché: augmente trés légerment toute les statique que ce sois nourriture MP bonheur ou population 
+hopital: augmente la population 
+les batiments de Tiers 1 peuvent être amilioré jusqu'au niveau 9 et les batiment tiers 2 peuvent etre amilioré jusqu'au niveau 6 et les batiments Tiers 3 jusqu'au lvl 3 ce qui augmente leur éfficacité 
+ 
+ 
